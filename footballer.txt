@@ -1,0 +1,219 @@
+<html>
+<head>
+       <title> Favourite footballer</title>
+    </head>
+
+   <body>
+       <h1><b><i>Gerard Pique Bernabeu </i></b></h1>
+   <big>
+        <p>
+            <b> &nbsp&nbsp He is a Spanish professional footballer <br/>
+         who plays as a centre-back for Barcelona <br/>
+          and the Spain national team .
+           </big> </b>
+     </p>
+
+     <p>
+              &nbsp  &nbsp  &nbsp  <img src ="Gerard.JPG" height="300" width="300" /><br/>
+              <a href ="https://en.m.wikipedia.org/wiki/Gerard_Pique" target="blank">
+                        Gerard pique with Spain in November 2017</a>
+          </p>
+
+                      <h2> <b> &nbsp  &nbsp  &nbsp  Personal Information  </b></h2>
+
+                <p>
+                      <hr/> <hr/>
+                     <table>
+                          <big>
+                                  <tr>
+                                  <td> <b> Full name </b> </td>
+                                 <td> Gerard pique bernabeu </td>
+                                 </tr>
+
+                     <tr>
+                                <td> <b> Date of Birth  </b> </td>
+                                <td> 2 february 1987(age 30) </td>
+                               </tr>
+
+                     <tr>
+                                     <td> <b> Place of birth </b> </td>
+                                         <td> barcelona,Spain </td>
+                                    </tr>
+
+                      <tr>
+                               <td> <b> height</b> </td>
+                                <td> 1.94m ( 6 ft 4 in) </td>
+                                </tr>
+
+                      <tr>
+                            <td> <b> Playing Position </b> </td>
+                           <td> Centre-Back </td>
+                        </tr>
+                </big>
+                 </table>
+                                  <hr/><hr/>
+
+           <h2> &nbsp &nbsp Club information </h2>
+
+      </p>
+
+             <p> <table><big>
+                                 <tr>
+                            <td> <b> Current Team  </b> </td>
+                           <td> Barcelona </td>
+                        </tr>
+                          
+                         <tr>
+                            <td> <b> Number </b> </td>
+                           <td> 3 </td>
+                        </tr>
+             </big></table> </p> <hr/>
+
+
+               
+           <h2> &nbsp &nbsp Youth Career </h2>
+
+      </p>
+
+             <p> <table><big>
+                                 <tr>
+                            <td> <b> 1997-2004 </b> </td>
+                           <td> Barcelona </td>
+                        </tr>
+                          
+                         <tr>
+                            <td> <b> 2004-2005 </b> </td>
+                           <td> Manchester United </td>
+                        </tr>
+             </big></table> </p> <hr/>
+             
+
+
+             
+           <h2> &nbsp &nbsp Senior Career </h2>
+
+      
+
+             <p> <table><big>
+                                 <tr>
+                            <td> <b> 2004-2008 </b> </td>
+                           <td> Manchester United </td>
+                        </tr>
+                          
+                         <tr>
+                            <td> <b> 2006-2007</b> </td>
+                           <td> Zaragoza </td>
+                        </tr>
+                      <tr>
+                            <td> <b> 2008-</b> </td>
+                           <td> Barcelona  </td>
+                        </tr>
+
+             </big>
+               </table> </p> <hr/>
+
+                 &nbsp &nbsp <img src ="national.JPG" height ="280" width ="400"/> <br/>
+                   &nbsp &nbsp <a href ="https://en.m.wikipedia.org/wiki/UEFA_Euro_2012_Final  "
+                      target="blank "> lining up before the UEFA Euro 2912 Final
+                     against Italy. </a>
+                <h2> &nbsp &nbsp National Team </h2>
+
+                      <p> <table><big>
+                                 <tr>
+                            <td> <b> 2002-2003 </b> </td>
+                           <td> Spain U16 </td>
+                        </tr>
+                          
+                         <tr>
+                            <td> <b> 2004</b> </td>
+                           <td> Spain U17 </td>
+                        </tr>
+                      <tr>
+                            <td> <b> 2006</b> </td>
+                           <td> Spain U19 </td>
+                        </tr>
+                  <tr>
+                            <td> <b> 2007</b> </td>
+                           <td> Spain U20 </td>
+                        </tr>
+                    <tr>
+                            <td> <b> 2006-2008</b> </td>
+                           <td> Spain U21 </td>
+                        </tr>
+                       <tr>
+                            <td> <b> 2009-</b> </td>
+                           <td> Spain  </td>
+                        </tr>
+                        <tr>
+                            <td> <b> 2004-</b> </td>
+                           <td> Catalonia </td>
+                        </tr>
+
+                        </big> </table> </p> <hr/>
+              <p>
+                  <big>
+                           &nbsp &nbsp Pique initiallly left the club for Manchester united in 2004,<br/>
+                           where he remained for four years,<br/>
+                             before returning to Barca under pep guardiola's 
+                        <br/>leadership,helping the club win trebles in <br/> 2008-09
+                        and 2014-15. <strong> He is one of four players to have
+                       <br/> won the UEFA Champions league two years in a row 
+                       <br/>with different teams. </strong>
+                       he has also represented Spain,making his debut on 
+                      <br/>11 February 2009.He  played an integral role in the team
+                       <br/> that <b> won the 2010 
+                         FIFA World Cup and UEFA Euro 2012.</b>
+
+      </big>
+      </p>
+
+                     <h2><b> &nbsp  Return to Barcelona </b></h2>
+                  &nbsp  &nbsp  &nbsp  &nbsp  <img src=" Gerard_Pique.JPG" />
+
+                 <br/>
+               &nbsp    <a href ="https://en.m.wikipedia.org/wiki/Joan_Gamber_Trophy" target="blank">
+
+                     pique during the 2008 joan Gamper Trophy.</a>
+
+
+        </p>
+
+             <p> <big>
+                     <h2><b> &nbsp  Style of play  </b></h2> <hr/> <br/>
+                      Pique is a modern defender,who combines strength with good <br/>
+                       technique and passing.Due to his height and physical attributes,
+                        <br/>he is good in the air.Although he is primarily deployed as a centre back,
+                        <br/> he is tacticaly versatile player who is capable of playing as a defensive
+                        <br/> midfielder,he has also known to use his height as an additional
+                        <br/> attacking threat by advancing into more offensive positions.
+                      
+
+          </big></p>
+                   
+
+                   <p><big>
+                           <h2><b> &nbsp  Personal life </b></h2><hr> <br>
+
+                            Pique was raised in a Catalan family.
+                            his father ,joan is a businessman,and his mother  
+                             <br/>montserrat,is the director of a spinal injuries 
+                            <br/>hospital in Barcelona .He has a younger brother, Marc.<br/>
+                          Since early 2011,pique has been in a relationship with Colombian singer <strong >Shakira</strong>.
+                          <br/>The couple have two children,<i><strong >Milan and Sasha<i></strong >.
+                </big> </p>
+
+      <i> Here is gerard piques's Facebook link &nbsp
+          <a href ="https://www.facebook.com/Gerard Pique/"> Click</a> 
+               
+                <br/> Here is Instragram link &nbsp
+                <a href ="https://www.instragram.com/gerard Pique/"> Click</a>
+                    
+
+                   </i> 
+
+
+
+
+
+      </body>
+       </html>

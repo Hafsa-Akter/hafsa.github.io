@@ -1,0 +1,173 @@
+<html>
+<head>
+       <title>Hafsa's  profile </title>
+
+      <link rel="stylesheet" type="text/css" href="myprofile.css">
+
+
+
+<style>
+ul{
+
+list-style-type:circle;
+color:green;
+margin:5px 150px;
+
+}
+
+ol{
+
+
+list-style-type:upper-roman;
+color:green;
+
+margin:5px 150px;
+
+}
+
+</style>
+    </head>
+
+   <body>
+    
+     <div class="div1">
+                                      <img src="hafsa.png" height="200" width="220" alt="sathi" />
+             
+          </div>
+<div class="div2">
+                           <p style=" font-size:20px; color:blue;"> My name is Hafsa akter Sathi.I am a student 
+                            of Computer Science and engineering.<br/>
+                          I live in Narayanganj with my Family.There are my father 
+                          ,mother and my two siblings Noor & Ali.
+                                     </p>
+             
+                  </div>
+                      <h2> <b> &nbsp  &nbsp  &nbsp  Personal Information  </b></h2>
+
+                <p>
+                      
+                     <table>
+                          <big>
+                                  <tr>
+                                  <td> <b> Full name </b> </td>
+                                 <td> Hafsa Akter Sathi </td>
+                                 </tr>
+
+                     <tr>
+                                <td> <b> Date of Birth  </b> </td>
+                                <td> 15 November 1996(age 21) </td>
+                               </tr>
+
+                     <tr>
+                                     <td> <b> Place of birth </b> </td>
+                                         <td> Comilla </td>
+                                    </tr>
+
+                      <tr>
+                               <td> <b> Current Place</b> </td>
+                                <td>Narayanganj</td>
+                                </tr>
+                          <tr>
+                               <td> <b> Nationality</b> </td>
+                                <td>Bangladeshi</td>
+                                </tr>
+                              <tr>
+                               <td> <b> Religion</b> </td>
+                                <td>Islam</td>
+                                </tr>
+
+
+
+                </big>
+                 </table>
+                                  
+
+           <h2> &nbsp &nbsp Education </h2>
+
+      </p>
+
+                          <div> 
+
+                                  <table>
+               
+
+                  <tr>
+                               <td> <b>University 2015-present &nbsp &nbsp </b> </td>
+                                <td>Stamford University Bangladesh</td>
+                                </tr>
+
+<tr >
+                               <td> <b> Colleg 2012-2014 </b> </td>
+
+                                <td>Narayanganj Govt. Mohila college </td>
+
+                                </tr>
+
+                           <tr>
+                               <td> <b> School 2006-2012</b> </td>
+                                <td>Fatullah Pilot High School</td>
+
+                                </tr>
+
+                                          </table>
+                                </div>
+                           
+                        <h2> Skills  </h2>
+
+                    
+                                        
+                              
+                     <div>         <p>  Languages :</p>
+                                 <ol>
+                                     <li> C </li>
+                                      <li> C++ </li>
+                                       <li> Java </li>
+                                          <li> SQL</li>
+                                           </ol>
+                                      
+
+                               </div>
+
+                          
+<div>
+                 <p>    Web Design :</p>
+                                 <ol>
+                                     <li> HTML</li>
+                                      <li> CSS </li>
+                                       
+                                           </ol>
+                                      
+
+                               
+<div>
+                           
+                                <p> Database :</p>
+                                 <ol>
+                                     <li> MySQL </li>
+                                       <li> Oracle</li>
+                                        
+                                           </ol>
+                                </div>
+                       
+
+ <h2> Hobbies </h2>
+<div>
+                             <ul>
+                                   <li> Reading book </li>
+                                    <li> Watching Cartoon & Movies</li>
+                                     <li> Learning something new </li>
+                                    
+
+                                 </ul>
+                                           </div>
+
+
+
+    <p>  Contacts: hafsaHaque656@gmail.com <br/>
+           Facebook link: <a href ="http//www.facebook.com/....." target="blank"> Facebook </a>
+               </p>
+        </body>
+                          
+                   
+
+ </html>
